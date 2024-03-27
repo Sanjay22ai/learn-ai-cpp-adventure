@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        },
+        {
+            "name": "C++",
+            "includePath": [
+                "c:/Users/KIIT/OneDrive/Desktop/My Projects/learn-ai-cpp-adventure/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPathInCppPropertiesJson": "C:\\Program Files (x86)\\Dev-Cpp\\MinGW64\\bin\\gcc.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "c:/Users/KIIT/OneDrive/Desktop/My Projects/learn-ai-cpp-adventure/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
